@@ -16,7 +16,7 @@ Script executor Roblox multi-fitur dengan UI modern — mendukung PC dan HP.
 ## 📥 Load Script
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/katssV7/K4TSS-Hub/refs/heads/main/K4TSS-HUB"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/katssV7/K4TSS-Hub-new/refs/heads/main/K4TSS-HUB.lua"))()
 ```
 
 > Tekan **G** untuk toggle GUI setelah script dijalankan.
